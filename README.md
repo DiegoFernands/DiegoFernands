@@ -1,6 +1,8 @@
   <h1>Hi there 👋 I'm Diego Oliveira.</h1>
   <p>I am a student in the area of ​​systems analysis and development with the aim of being a front-end programmer.</p>
-
+  <h2>About me<h2/>
+  - 🌱 Learning more about technologies like Javascript, Typescript, React, Next.js...
+  
 <!--
 **DiegoFernands/DiegoFernands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
