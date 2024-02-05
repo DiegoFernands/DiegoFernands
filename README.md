@@ -1,11 +1,10 @@
   # Hi there 👋 I'm Diego Oliveira.
   I am a student in the area of ​​systems analysis and development with the aim of being a front-end programmer.
   ## About me
-  -🌱 Learning more about technologies like >
+  -🌱 Learning more about technologies like
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-            ...
+          ...
   
 <!--
 **DiegoFernands/DiegoFernands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
