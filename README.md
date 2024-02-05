@@ -1,7 +1,8 @@
   # Hi there 👋 I'm Diego Oliveira.
   I am a student in the area of ​​systems analysis and development with the aim of being a front-end programmer.
   ## About me
-  -🌱 Learning more about technologies like Javascript, Typescript, React, Next.js ...
+  -🌱 Learning more about technologies like [Javascript], Typescript, React, Next.js ...
+  - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
   
 <!--
 **DiegoFernands/DiegoFernands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
