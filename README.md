@@ -6,7 +6,7 @@
           
 
 
-## Skills
+## Statistics
 
 <div>
 <a href="https://github.com/DiegoFernands">
